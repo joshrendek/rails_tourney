@@ -2,7 +2,7 @@
   <div><img src="/images/Starcraft2logo.gif"/></div>
   <h1>Rails Tournament</h1>
 
-  <p>Register now for the tournament by <%= link_to 'signing up!', new_user_registration_path %>.
+  <p>Register now for the tournament by <%= link_to 'signing up!', new_user_registration_path %>. You can also subscribe using <%= link_to 'this form', AppConfig.signup_form_url %>.
     <br />
 
     Feel free to <%= mail_to AppConfig.mailing_list_email, 'subscribe' %> or visit it <%= link_to 'online', AppConfig.mailing_list_url %>.
