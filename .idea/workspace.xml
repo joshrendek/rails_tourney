@@ -78,10 +78,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="site.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="site.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/site.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="40" selection-start="226" selection-end="226" vertical-scroll-proportion="0.1553398">
+            <state line="10" column="40" selection-start="226" selection-end="226" vertical-scroll-proportion="-5.9259257">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="21" selection-start="161" selection-end="161" vertical-scroll-proportion="0.10873786">
               <folding />
             </state>
           </provider>
@@ -97,7 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/dashboard/index.html.erb" />
@@ -110,6 +118,7 @@
         <option value="$PROJECT_DIR$/public/stylesheets/site.css" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/public/stylesheets/site.scss" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -593,13 +602,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="26" selection-start="107" selection-end="107" vertical-scroll-proportion="-2.9629629">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="33" selection-start="574" selection-end="574" vertical-scroll-proportion="-11.851851">
@@ -700,7 +702,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/site.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="40" selection-start="226" selection-end="226" vertical-scroll-proportion="0.1553398">
+        <state line="10" column="40" selection-start="226" selection-end="226" vertical-scroll-proportion="-5.9259257">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="21" selection-start="161" selection-end="161" vertical-scroll-proportion="0.10873786">
           <folding />
         </state>
       </provider>
