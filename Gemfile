@@ -17,6 +17,8 @@ group :development do
   gem 'nokogiri'
 
   gem 'rspec-rails'
+
+  gem 'launchy'
 end
 
 # Use unicorn as the web server

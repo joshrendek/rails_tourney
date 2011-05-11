@@ -4,7 +4,6 @@
 
   <p>Register now for the tournament by <%= link_to 'signing up!', new_user_registration_path %>.
     <br />
-    More information will
-    be posted here and on the google group:
-    <a href="https://groups.google.com/group/rails-starcraft/">Rails Starcraft</a></p>
+
+    Feel free to <%= mail_to AppConfig.mailing_list_email, 'subscribe' %> or visit it <%= link_to 'online', AppConfig.mailing_list_url %>.
 </div>
