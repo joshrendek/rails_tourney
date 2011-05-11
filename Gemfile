@@ -16,7 +16,7 @@ group :development do
   gem 'capybara'
   gem 'nokogiri'
 
-  gem 'rspec'
+  gem 'rspec-rails'
 end
 
 # Use unicorn as the web server
