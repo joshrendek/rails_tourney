@@ -1,0 +1,13 @@
+#header {
+  background-color: #212121;
+  height: 60px; }
+  #header img {
+    padding: 7px; }
+  #header a {
+    color: white;
+    font-size: 17px;
+    text-decoration: none; }
+    #header a:hover {
+      color: #A5E4F8; }
+  #header #navigation {
+    margin-top: 15px; }

@@ -1,0 +1,16 @@
+#header {
+    background-color: #212121;
+    height: 60px;
+    img { padding: 7px; }
+    a {
+        color: white;
+        font-size: 17px;
+        text-decoration: none;
+        &:hover {
+            color: #A5E4F8;
+        }
+    }
+    #navigation {
+        margin-top: 15px;
+    }
+}
