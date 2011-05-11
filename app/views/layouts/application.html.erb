@@ -7,8 +7,16 @@
   <%= csrf_meta_tag %>
 </head>
 <body>
-
+<div align="center">
+  <%= link_to 'Home', root_path %>
+</div>
+<% flash.each do |name, msg| %>
+    <%= content_tag :div, msg, :class => "#{name}" %>
+<% end %>
 <%= yield %>
 
+<div align="center">
+  <a href="https://github.com/bluescripts/rails_tourney">Source @ Github</a>
+</div>
 </body>
 </html>
